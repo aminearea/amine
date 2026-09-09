@@ -1,8 +1,8 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Amine</h1>
-<h3 align="center">Full-Stack Developer · Systems Engineering & Security</h3>
+<h3 align="center">Full-Stack Developer · Systems & Security Enthusiast</h3>
 
-<!-- Tech Stack Badges (No personal info) -->
+<!-- Tech Stack (Completely public, no personal info) -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -15,56 +15,29 @@
 
 <hr />
 
-<!-- Activity & Stats (Public repository data only) -->
+<!-- Core Competencies (Replaces project stats) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-4-yellow?style=flat-square&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Contributions-10_in_2026-brightgreen?style=flat-square" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Public_Repos-1-blue?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/badge/Languages-6-purple?style=flat-square" alt="Languages" />
+  <b>Core Competencies:</b> Full-Stack Development · Systems Programming · Secure Coding · Algorithm Design
 </p>
-
----
-
-## 🔭 Featured Project
-
-### [VAULT — C Password Manager](https://github.com/aminearea/VAULT---C-Password-Manager)
-
-> A lightweight, terminal-based password manager written in C with AES-256 encryption.  
-> Securely store and retrieve credentials using a master‑password protection scheme.
-
-- **Language:** C  
-- **Commits:** 9 (initial release)  
-- **Stars:** 4  
-- **Created:** September 2026  
-
----
-
-## 📝 Recent Contribution Activity
-
-- **Sep 9, 2026** – `feat: implement master-password hashing` – [VAULT---C-Password-Manager](https://github.com/aminearea/VAULT---C-Password-Manager)  
-- **Sep 9, 2026** – `fix: resolve memory leak in decryption routine` – [VAULT---C-Password-Manager](https://github.com/aminearea/VAULT---C-Password-Manager)  
-- **Sep 9, 2026** – `docs: add usage examples and build instructions` – [VAULT---C-Password-Manager](https://github.com/aminearea/VAULT---C-Password-Manager)  
-- **Sep 8, 2026** – `test: add unit tests for encryption helpers` – [VAULT---C-Password-Manager](https://github.com/aminearea/VAULT---C-Password-Manager)  
-- **Sep 8, 2026** – `chore: initial repository setup` – [VAULT---C-Password-Manager](https://github.com/aminearea/VAULT---C-Password-Manager)  
-
-*First repository created on September 9, 2026 — 9 total commits.*
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate developer with a strong focus on **systems programming**, **clean architecture**, and **secure software design**. 
+I am a dedicated developer with a strong foundation in both high-level web technologies and low-level systems programming. I believe in writing clean, efficient, and secure code.
 
-I enjoy working across the full stack, with a particular interest in low‑level languages like C and C++. My current areas of exploration include:
+My expertise spans across the entire development spectrum, from crafting responsive front-end interfaces with HTML, CSS, and JavaScript to building robust back-end systems using SQL and C/C++.
 
-- Embedded systems & firmware development  
-- Cryptography and secure data storage  
-- Efficient data structures and algorithms  
+I am deeply interested in:
+- **Systems Architecture**: Understanding how software interacts with hardware.
+- **Cryptography & Security**: Implementing secure data handling and encryption.
+- **Performance Optimization**: Writing high-performance algorithms in C and C++.
 
-I am always open to collaborating on challenging and innovative open‑source projects.
+I am continuously learning and exploring new technologies to refine my craft and solve complex problems effectively.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built_with_❤️-Professional-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Collaboration-Yes-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Quality_Code-informational?style=flat-square" />
 </p>
